@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "915111781376",
+    "project_id": "messaging-app-ba5dc",
+    "storage_bucket": "messaging-app-ba5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915111781376:android:d902acea6469ca4ec3a4e5",
+        "android_client_info": {
+          "package_name": "com.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915111781376-g0gsj0rdjgv2cphp19v3jpd0qu4eljfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appchat",
+            "certificate_hash": "633c531d04e2f8eb08301617023574470bbdd46b"
+          }
+        },
+        {
+          "client_id": "915111781376-u6u6nseqsbk99eom45jalhs65aq8b2l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTSHgnuTTGLfMcMwf22ygHota_PIyJeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915111781376-u6u6nseqsbk99eom45jalhs65aq8b2l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

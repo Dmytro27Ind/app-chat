@@ -1,0 +1,23 @@
+{
+  "Language": {
+    "language": "Язык",
+    "russian": "Русский",
+    "english": "Английский",
+    "sk": "Словацкий"
+  },
+  "Profile": {
+    "profile": "Мой профиль"
+  },
+  "Settings": {
+    "settings": "Настройки"
+  },
+  "AllChats": {
+    "allChats": "Все чаты"
+  },
+  "Singout": {
+    "singout": "Выйти"
+  },
+  "Login": {
+    "login": "Вход"
+  }
+}
